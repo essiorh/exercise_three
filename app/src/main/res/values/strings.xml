@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Exercise_three</string>
+    <string name="set_null">Set null</string>
+    <string name="set_clear">Set clear</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="change_activity">Please, choice fragment</string>
+    <string name="first_fragment">First fragment</string>
+    <string name="second_fragment">Second fragment</string>
+    <string name="third_fragment">Third fragment</string>
+    <string name="fourth_fragment">Fourth fragment</string>
+    <string name="fifth_fragment">Fifth fragment</string>
+    <string name="id_container">id_container</string>
+    <string name="id_fragment">id_fragment</string>
+</resources>
